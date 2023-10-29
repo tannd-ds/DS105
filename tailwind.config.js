@@ -23,6 +23,7 @@ module.exports = {
           base: withOpacity("--color-text-base"),
           muted: withOpacity("--color-text-muted"),
           inverted: withOpacity("--color-text-inverted"),
+          highlight: withOpacity("--color-text-highlight"),
         },
       },
       backgroundColor: {
